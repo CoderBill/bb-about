@@ -1,0 +1,16 @@
+{
+  "name": "about",
+  "version": "1.0.1",
+  "description": "About slideshow for BizbuildersUSA.COM",
+  "main": "about.js",
+  "scripts": {},
+  "author": "William A. Cole a.k.a. CodeMasterBill",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoderBill/bb-about.git"
+  }
+}
